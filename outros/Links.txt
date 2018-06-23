@@ -1,0 +1,61 @@
+1https://www.w3schools.com/html/tryit.asp?filename=tryhtml_inputpassword     -pesquisa de type="password" 
+06/04/2018 20:54
+
+
+https://www.w3schools.com/tags/tag_select.asp      -pesquisa de <select uso e formas de opção
+06/04/2018 20:54
+
+
+https://www.w3schools.com/tags/tag_fieldset.asp       -pesquisa de <fieldset>  modo de uso
+06/04/2018  20:54
+
+
+https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_fieldset     -pesquisa sobre o uso de fieldset
+06/04/2018  20:54
+
+
+https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/fieldset    -pesquisa sobre o uso de  fieldset
+06/04/2018  20:54
+
+
+http://www.devfuria.com.br/html-css/formularios/listbox/     -pesquisa sobre o uso de select (para list box)
+06/04/2018   20:54
+
+
+https://tableless.com.br/validacao-de-formularios-com-html5/  -pesquisa sobre validação de formulários
+06/04/2018  20:55
+
+
+https://www.devmedia.com.br/java-primefaces-criando-uma-tela-de-cadastro/31796   -pesquisa sobre ferramentas para a tela de cadastro
+16/04/2018   20:02
+
+
+https://www.hardware.com.br/comunidade/email-envio/1278462/          - pesquisa sobre o método de envio do submit para o email /html
+16/04/2018   20:39
+
+
+https://www.devmedia.com.br/enviando-email-com-php/37216  - pesquisa sobre o método de envio do submit para email /php
+
+
+https://www.w3schools.com/php/php_form_url_email.asp   -pesquisa sobre o método de validação de formulário /php
+17/04/ 2018   21:51
+
+
+https://www.w3schools.com/html/html_form_input_types.asp     -pesquisa sobre métodos de type (text, tel, numb, password, etc).
+17/04/2018   22:13
+
+
+https://www.codigofonte.net/dicas/php/322_cadastro-de-clientes-com-html-php   -pesquisa para o desenvolvimento do código php
+02/05/2018    19:30
+
+
+https://www.devmedia.com.br/criando-um-sistema-de-cadastro-e-login-com-php-e-mysql/37213       -pesquisa para o desenvolvimento do código php 
+02/05/2018     20:29 
+
+
+https://becoliterario.com/resenha-entre-o-agora-e-o-sempre-j-a-redmerski/       -frase para dedicatória
+03/05/2018    23:52
+
+
+https://www.freelogoservices.com   -pesquisa de logotipo
+06/05/2018   16:19

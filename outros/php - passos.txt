@@ -1,0 +1,4 @@
+a variavel será instanciada para o código php
+esta, será indicada como     $variavel= $_POST['variavel']
+
+o envio da variável será por meio do método post e será transferido do html para o php.
