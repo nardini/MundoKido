@@ -1,7 +1,6 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Mundo Kido</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -37,11 +36,10 @@
 					<section id="banner" class="major">
 						<div class="inner">
 							<header class="major">
-								<h1>Bem Vindo, Mundo Kido</h1>
+								<h1>Cadastro</h1>
 							</header>
 							<div class="content">
-								<p>Nós somos um grupo de funcionários da Clínica Mundo Kido
-									<br> Juntos formamos uma equipe dedicada a atender e medicar seus animais.</p>
+								<p>Faça seu Cadastro.</p>
 
 								<ul class="actions">
 									<li><a href="#one" class="button next scrolly">Vamos Começar</a></li>
@@ -61,11 +59,6 @@
               <br>
                 <form action="cadastro.php" method="post">
 
-	                  <br>
-	                  Usuario: <br>
-	                  <input type="text" name="usuario" id="usuario">
-
-	                  <br>
 	                  Nome: <br>
 	                  <input type="text" name="nome_usuario" id="nome_usuario">
 
