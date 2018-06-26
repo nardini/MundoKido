@@ -59,6 +59,9 @@
               <br>
                 <form action="cadastro.php" method="post">
 
+										Usuário: <br>
+										<input type="text" name="usuario" id="usuario">
+
 	                  Nome: <br>
 	                  <input type="text" name="nome_usuario" id="nome_usuario">
 
@@ -79,8 +82,6 @@
                     <input type="password" name="senha" id="password">
 
                     <br>
-
-
                     <input type="submit" value="Cadastrar" class="special"/>
 										<input type="reset" value="Limpar">
 
